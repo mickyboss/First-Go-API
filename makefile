@@ -1,2 +1,1 @@
-dev:
-	go run main.go
+caca 
